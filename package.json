@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://zfedorovska.github.io/rent-car",
+  "homepage": "https://zfedorovska.github.io/morent-rent-car/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /rent-car/"
+    "build": "parcel build src/*.html --public-url /morent-rent-car/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zfedorovska/rent-car.git"
+    "url": "git+https://github.com/zfedorovska/morent-rent-car.git"
   },
   "keywords": [],
   "author": "Zoryana Fedorovska <zfedorovska@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/zfedorovska/morent-rent-car/issues"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
